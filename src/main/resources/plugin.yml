@@ -1,0 +1,11 @@
+name: Redstoneer
+version: 1.0
+main: com.skitbet.redstoneer.RedstoneerPlugin
+api-version: 1.19
+commands:
+  autodust:
+    description: Automatically places dust above blocks placed.
+  clonecolor:
+    description: Lets you clone stained glass as colored concrete and vise versa.
+  airplace:
+    description: Lets you place blocks in the air.
